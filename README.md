@@ -5,6 +5,7 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
 More info. about myself:
 
 - :sunny: I’m from Costa Rica 
+- :books: University of Costa Rica
 - :computer: I’m currently working for Walmart EBS
 - :bar_chart: I’m currently learning more about Data Engineering, Data Pipelines and DevOps
 - 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-DanielFerreto-0e76a8?style=flat&labelcolor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-daniel-ferreto-chavarr%C3%ADa-102566b1/)](https://www.linkedin.com/in/luis-daniel-ferreto-chavarr%C3%ADa-102566b1/)
