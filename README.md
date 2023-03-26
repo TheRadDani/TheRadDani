@@ -4,7 +4,7 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
 
 [![Profile statistics card](https://github-readme-stats.vercel.app/api?username=TheRadDani&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/TheRadDani)
 
-[![Top languages statistics card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRadDani&hide=assembly,c,cmake,emacs%20lisp,glsl,lex,m,Makefile,matlab,objective-c,openedge%20abl,perl,racket,ruby,shell,tsql,vhdl,yacc&langs_count=10&layout=compact&theme=ayu-mirage)](https://github.com/TheRadDani)
+[![Top languages statistics card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRadDani&hide=assembly,Tcl,Vim Script,cmake,emacs%20lisp,glsl,lex,m,Makefile,matlab,objective-c,openedge%20abl,perl,racket,ruby,shell,tsql,vhdl,yacc&langs_count=10&layout=compact&theme=ayu-mirage)](https://github.com/TheRadDani)
 
 
 More info. about myself:
