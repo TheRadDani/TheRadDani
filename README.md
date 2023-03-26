@@ -2,6 +2,8 @@
 
 My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep interest on Data Science/Data Engineering and Big Data with IoT devices. 
 
+[![Profile statistics card](https://github-readme-stats.vercel.app/api?username=TheRadDani&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/TheRadDani)
+
 More info. about myself:
 
 - :sunny: I’m from Costa Rica 
