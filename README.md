@@ -74,7 +74,7 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
       height="40"
     />
   </a>
- <!--
+ <-->
   <a href="https://cloud.google.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
@@ -83,7 +83,7 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
       height="40"
     />
   </a>
--->
+
   <!--
   <a href="https://git-scm.com/" target="_blank">
     <img
@@ -118,7 +118,7 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
       alt="java"
       width="40"
       height="40"
-    /> -->
+    /> 
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -190,14 +190,6 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
     <img
       src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
       alt="opencv"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.nvidia.com/cuda-downloads" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg"
-      alt="php"
       width="40"
       height="40"
     />
