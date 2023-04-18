@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep interest on Data Science/Data Engineering and Big Data with IoT devices.
+My name is **Daniel Ferreto**, I’m a and Electrical Engineer, I have a strong backgroung in Computers Architecture, Embbeded systems and Deep Learning
 
 ### Languages spoken:
 - :es: Spanish
