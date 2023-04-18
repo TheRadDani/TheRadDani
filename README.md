@@ -2,6 +2,11 @@
 
 My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep interest on Data Science/Data Engineering and Big Data with IoT devices.
 
+### Languages spoken:
+- :es: Spanish
+- :us: English
+- :it: Italian 
+- :de: German
 
 ## Technical Skills
 <p align="left">
@@ -240,13 +245,6 @@ My name is **Daniel Ferreto**, I’m a and Electrical Engineer and I have a deep
 [![Profile statistics card](https://github-readme-stats.vercel.app/api?username=TheRadDani&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/TheRadDani)
 
 [![Top languages statistics card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRadDani&hide=assembly,Tcl,TeX,cmake,emacs%20lisp,glsl,lex,m,Makefile,matlab,objective-c,openedge%20abl,perl,racket,ruby,shell,tsql,vhdl,yacc&langs_count=10&layout=compact&theme=ayu-mirage)](https://github.com/TheRadDani)
-
-### Languages spoken:
-- :es: Spanish
-- :us: English
-- :it: Italian 
-- :de: German
-
 
 
 ![](https://komarev.com/ghpvc/?username=TheRadDAni&color=green)
