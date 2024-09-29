@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is **Daniel Ferreto**, I’m a and Electrical Engineer, I have a strong backgroung in Computers Architecture, Embbedded systems, Computer Vision and Deep Learning
+My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backgroung in Computers Architecture, Embbedded systems, Computer Vision and Deep Learning
 
 ### Languages spoken:
 - :es: Spanish
