@@ -241,3 +241,30 @@ My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backg
 
 <!--<a href="[https://twitter.com/seanbenhur](https://www.linkedin.com/in/luis-daniel-ferreto-chavarria)" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/seanbenhur" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" />
 </a>-->
+
+```mermaid
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Find Daniel's Profile] --> bottom1[Hire Daniel 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem 🐛] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem 🐛] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "[https://www.linkedin.com/in/luis-daniel-ferreto-chavarria/](https://www.linkedin.com/in/luis-daniel-ferreto-chavarria/)/" "LinkedIn"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
+```
