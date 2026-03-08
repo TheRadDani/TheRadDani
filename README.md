@@ -236,8 +236,8 @@ My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backg
 <img src="https://github.com/TheRadDani/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-### Connect with me 
-<a href="https://www.linkedin.com/in/luis-daniel-ferreto-chavarria" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; 
+### 📫 Let's Connect!
+Feel free to reach out for collaboration opportunities, technical discussion, or just to say hi! 
 
 <!--<a href="[https://twitter.com/seanbenhur](https://www.linkedin.com/in/luis-daniel-ferreto-chavarria)" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/seanbenhur" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" />
 </a>-->
