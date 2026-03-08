@@ -233,7 +233,7 @@ My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backg
 
 <a href="https://github.com/TheRadDani/GitHub-Language-Stats">
 <img src="https://github.com/TheRadDani/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/TheRadDani/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 ### Connect with me 
