@@ -1,14 +1,8 @@
-![](https://komarev.com/ghpvc/?username=TheRadDAni&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=TheRadDani)
 
 ### Hi there 👋 
 
 My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backgroung in Computers Architecture, Embbedded systems, Computer Vision and Deep Learning
-
-### Languages spoken:
-- :es: Spanish
-- :us: English
-- :it: Italian 
-- :de: German
 
 ## Technical Skills
 <p align="left">
@@ -236,8 +230,6 @@ My name is **Daniel Ferreto**, I’m a and an AI Engineer, I have a strong backg
     />
   </a>
 </p>
-
-[![Profile statistics card](https://github-readme-stats.vercel.app/api?username=TheRadDani&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/TheRadDani)
 
 <a href="https://github.com/TheRadDani/GitHub-Language-Stats">
 <img src="https://github.com/TheRadDani/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
